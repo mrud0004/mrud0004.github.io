@@ -8,7 +8,7 @@ Hi! I'm a dedicated student at Monash University, deeply engrossed in the worlds
 - **Institution:** Monash University
 - **Focuses:** Striving for excellence and innovation in technology and science.
 
-- 
+  
 I've maintained high academic standards throughout my tenure at Monash, with my dedication and love for my studies. My educational journey has seen me apply myself heavily within both fields, and experience the overlap that both fields hold.
 
 ## Projects
