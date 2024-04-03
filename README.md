@@ -1,13 +1,13 @@
 # Welcome to My Profile!
 
-Hi! I'm a dedicated student at Monash University, studying in the fields of Software Engineering and Astrophysics. I balance software development with the field of astrophysics, and I navigate these fields with a deep interest in both. I am fascinated by these fields and am constantly looking to improve my skills and abilities in both.
+Hi! I'm a dedicated student at Monash University, studying in the fields of Software Engineering and Astrophysics. I balance software development with astrophysics, and I navigate these fields with a deep interest in both.
 
 ## About Me
 
 - **Studying:** Software Engineering & Astrophysics with a minor in Mathematics
 - **Institution:** Monash University
 
-I've maintained high academic standards throughout my tenure at Monash, with my dedication and love for my studies. My educational journey has seen me apply myself heavily within both fields, and experience the overlap that both fields contain.
+I've maintained high academic standards throughout my tenure at Monash, with my dedication and passion for my studies. My educational journey has seen me apply myself heavily within both fields, and experience the overlap that both fields contain.
 
 ## Projects
 
